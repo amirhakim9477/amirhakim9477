@@ -314,7 +314,7 @@ section {
   display: flex;
   flex-direction: column;
   height: fit-content;
-  min-height: 100vh;
+  min-height: 75vh;
   position: relative;
   font-family: "Roboto Slab", serif;
   color: rgb(255, 249, 239);
@@ -1102,6 +1102,9 @@ textarea:focus, input:focus{
   50% {
     opacity: 1;
   }
+}
+#touch{
+  margin-top: 0;
 }
 
 .content1, .content2, .content3, .content4, .content5, .content6 {
