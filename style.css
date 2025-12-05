@@ -752,7 +752,7 @@ section {
 }
 .secPhone {
   position: relative;
-  width: 200px;
+  width: 220px;
   height: 40px;
   border-radius: 10px;
   box-shadow: 1px 0 10px 0 rgb(216, 0, 220);
@@ -775,7 +775,7 @@ section {
   position: absolute;
   top: 50%;
   right: 3px;
-  width: 155px;
+  width: 170px;
   height: 34px;
   translate: 0 -50%;
   border-radius: 8px;
