@@ -11,11 +11,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brightdev124" alt="brightdev124" /></a> </p>
 
 ### ⭐ About Me:
-A Passionate Senior Software Engineer dedicated to developing and optimizing interactive, user-friendly, and feature-rich websites.
-Proficient in a variety of programming languages and frameworks, with a strong track record of delivering successful products.
+I’m a full-stack developer with experience in building scalable and user-friendly web applications. I specialize in JavaScript/TypeScript, React, Node.js, and RESTful APIs, and I have a strong foundation in working with databases such as MySQL and MongoDB. I’m comfortable handling the full development cycle—from designing responsive UI/UX to developing backend architectures and deploying applications.
 
-My main motivator is a sense of accomplishment and I strive to be better today than I was yesterday in every aspect of my life, professional and private. Passion for improvement and constant competition with my yesterday's self are the main factors that led me to choose the career of a Software Engineer since this career requires constant learning, and the best thing is, there is no upper limit
-to that in IT
+My technical background includes front-end technologies like HTML, CSS, JavaScript, and React, as well as back-end frameworks such as Node.js, Express, SQL, and MongoDB. I actively use modern development tools including Git, VS Code, and Postman, and I apply clean coding practices to ensure maintainability and performance. I also leverage React hooks, contexts, and modern component patterns to build dynamic, maintainable interfaces.
+
+In practice, I’ve built and maintained full-stack applications that help merchants manage orders, products, and operations more efficiently. My focus is on solving complex problems, optimizing performance, and contributing effectively within agile teams. I thrive on collaboration and enjoy creating software that delivers real value to businesses and end users.
 
 ### 🧑‍💻 Tech I work on :
 
