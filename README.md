@@ -40,3 +40,11 @@ In practice, I’ve built and maintained full-stack applications that help merch
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mightstar/mightstar/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
