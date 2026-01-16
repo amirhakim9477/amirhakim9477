@@ -25,6 +25,7 @@ scene.fog = new THREE.Fog(black, 4, 6);
 // scene.add(gridHelper)
 //second update
 //third update
+//fourth update
 //LIGHT SCENE1
 let lightTopColor = new THREE.Color(yellow);
 let lightBackColor = new THREE.Color(red);
