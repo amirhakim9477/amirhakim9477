@@ -23,7 +23,7 @@ scene.background = new THREE.Color(black);
 scene.fog = new THREE.Fog(black, 4, 6);
 // const gridHelper = new THREE.GridHelper(200, 50);
 // scene.add(gridHelper)
-
+//second update
 //LIGHT SCENE1
 let lightTopColor = new THREE.Color(yellow);
 let lightBackColor = new THREE.Color(red);
