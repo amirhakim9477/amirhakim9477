@@ -457,7 +457,7 @@ section {
 }
 .project {
   position: relative;
-  width: 30vw;
+  width: 20vw;
   min-height: 48vh;
   margin: 0 10px 0 10px;
   border-radius: 10px;
@@ -502,7 +502,7 @@ section {
 
 .picture {
   width: 30vw;
-  height: auto;
+  height: 35vw;
 }
 
 .projectSoftware {
