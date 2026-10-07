@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdev124&label=Profile%20views&color=0e75b6&style=flat" alt="brightdev124" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brightdev124" alt="brightdev124" /></a> </p>
 
 ### ⭐ About Me:
 I’m a full-stack developer with experience in building scalable and user-friendly web applications. I specialize in JavaScript/TypeScript, React, Node.js, and RESTful APIs, and I have a strong foundation in working with databases such as MySQL and MongoDB. I’m comfortable handling the full development cycle—from designing responsive UI/UX to developing backend architectures and deploying applications.
