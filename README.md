@@ -6,7 +6,6 @@
 
 <img src="/assets/img/7.gif" width="70%" style="border-radius: 8px"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brightdev124&label=Profile%20views&color=0e75b6&style=flat" alt="brightdev124" /> </p>
 
 
 ### ⭐ About Me:
